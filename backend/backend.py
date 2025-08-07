@@ -1,6 +1,7 @@
 import sys
 import os
 
+
 # Add parent folder to path so Python can find rag_system
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
