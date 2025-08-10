@@ -1,7 +1,11 @@
-streamlit
 langchain
-langchain_groq
-wikipedia
-googlesearch-python
-fpdf
-requests
+langchain-google-genai
+langchainhub
+langchain_community
+pypdf
+python-dotenv
+chromadb
+streamlit
+matplotlib
+pandas
+langchain-ollama
